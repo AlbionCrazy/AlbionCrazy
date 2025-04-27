@@ -16,6 +16,14 @@
       ],
       "uploadDate": "2025-04-26T00:00:00.000Z",
       "fileSize": "8.5 GB"
-      }
+    },
+    {
+      "title": "Wanted Raccoon",
+      "uris": [
+        "magnet:?xt=urn:btih:UV36SDGTMV637OHW7XNS2DQR5UAQPBTB&dn=Wanted%20Raccoon%20b250307%20by%20Pioneer&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce"
+      ],
+      "uploadDate": "2025-04-24T00:00:00.000Z",
+      "fileSize": "2 GB"
+    }
   ]
 }
